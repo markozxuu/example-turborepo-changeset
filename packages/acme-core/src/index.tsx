@@ -1,2 +1,2 @@
-import * as React from "react";
 export { Button, type ButtonProps } from "./Button";
+export { Title, type TitleProps } from "./Title";
