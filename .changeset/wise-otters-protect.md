@@ -2,4 +2,4 @@
 "@markozxuu/core": minor
 ---
 
-feature/test
+feature/new component
