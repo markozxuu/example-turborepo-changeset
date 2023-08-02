@@ -1,5 +1,5 @@
 ---
-"@markozxuu/core": patch
+"@markozxuu/core": minor
 ---
 
 feature/test
