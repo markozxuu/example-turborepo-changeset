@@ -1,5 +1,11 @@
 # @markozxuu/core
 
+## 1.4.0
+
+### Minor Changes
+
+- e4cc872: Se agreggo checkbox componente
+
 ## 1.3.0
 
 ### Minor Changes
