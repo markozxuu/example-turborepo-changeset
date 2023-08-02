@@ -1,5 +1,11 @@
 # @markozxuu/core
 
+## 1.3.0
+
+### Minor Changes
+
+- 1892d08: feature/new component
+
 ## 1.2.0
 
 ### Minor Changes
