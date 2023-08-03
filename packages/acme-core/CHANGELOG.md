@@ -1,5 +1,11 @@
 # @markozxuu/core
 
+## 1.5.0
+
+### Minor Changes
+
+- 9913dfa: feature/demo 2
+
 ## 1.4.0
 
 ### Minor Changes
